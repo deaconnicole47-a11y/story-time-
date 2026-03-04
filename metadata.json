@@ -1,0 +1,5 @@
+{
+  "name": "Storybook Adventures",
+  "description": "An interactive storybook app for kids that reads stories aloud, generates illustrations, and features an AI chatbot.",
+  "requestFramePermissions": []
+}
